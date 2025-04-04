@@ -1,0 +1,6 @@
+[run]
+source = cloud_project
+omit = 
+    tests/*
+    autoapp.py
+
