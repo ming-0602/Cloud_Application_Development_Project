@@ -180,7 +180,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==0.16.0
 python-json-logger==2.0.7
 python-slugify==8.0.4
-pytz==2024.2
+pytz==2025.2
 pyunormalize==15.1.0
 pywin32==306
 pywinpty==2.0.13
