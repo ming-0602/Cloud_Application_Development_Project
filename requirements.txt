@@ -63,7 +63,7 @@ execnet==2.0.2
 executing==2.1.0
 factory_boy==3.3.3
 Faker==37.1.0
-fastjsonschema==2.20.0
+fastjsonschema==2.21.2
 flake8==7.2.0
 flake8-blind-except==0.2.1
 flake8-debugger==4.1.2
